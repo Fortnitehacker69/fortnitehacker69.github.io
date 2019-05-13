@@ -1,0 +1,640 @@
+
+
+{
+"Klær": {
+  "Gensere" : {
+    "G001" : {
+      "sesong":"2019",
+      "Navn" : "Dripped crewneck",
+      "Bilde" : "Drippedcrewneck.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "G002" : {
+      "sesong":"2019",
+      "Navn" : "Know yourself hooded sweatshirt",
+      "Bilde" : "Knowyourselfhoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+"G003" : {
+      "sesong":"2019",
+        "Navn" : "Topline zip up sweatshirt ",
+        "Bilde" : "Toplinezipupsweatshirt.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+"G004" : {
+      "sesong":"2019",
+      "Navn" : "Star zip up sweatshirt",
+      "Bilde" : "Starzipupsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+"G005" : {
+      "sesong":"2019",
+      "Navn" : "Toy uzi hooded sweatshirt",
+      "Bilde" : "Toyuzihoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G006" : {
+      "sesong":"2019",
+      "Navn" : "Tag logo hooded sweatshirt",
+      "Bilde" : "Taglogohoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G007" : {
+      "sesong":"2019",
+      "Navn" : "wrist logo hooded sweatshirt",
+      "Bilde" : "wristlogohoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G008" : {
+      "sesong":"2019",
+      "Navn" : "Classic ad Hooded sweatshirt",
+      "Bilde" : "ClassicadHoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G009" : {
+      "sesong":"2019",
+      "Navn" : "Blockbuster hooded sweatshirt",
+      "Bilde" : "Blockbusterhoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G010" : {
+      "sesong":"2019",
+      "Navn" : "Contrast Embroidered Hooded sweatshirt",
+      "Bilde" : "ContrastEmbroideredHoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G011" : {
+      "sesong":"2019",
+      "Navn" : "Rib Stripe crewneck",
+      "Bilde" : "RibStripecrewneck.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G012" : {
+      "sesong":"2019",
+      "Navn" : "Overdyed Hooded sweatshirt",
+      "Bilde" : "OverdyedHoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G013" : {
+      "sesong":"2019",
+      "Navn" : "Chain logo crewneck",
+      "Bilde" : "Chainlogocrewneck.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G014" : {
+      "sesong":"2019",
+      "Navn" : "Old english striped zip up sweatshirt",
+      "Bilde" : "Oldenglishstripedzipupsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G015" : {
+      "sesong":"2019",
+      "Navn" : "Chest stripe logo Hooded sweatshirt",
+      "Bilde" : "CheststripelogoHoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G016" : {
+  "sesong":"2019",
+  "Navn" : "Zip pouch Hooded sweatshirt",
+  "Bilde" : "ZippouchHoodedsweatshirt.jpg",
+  "produsent":"Express",
+  "Farge1" : "Hvit",
+  "Farge2" : "gul",
+  "Farge 3": "grå",
+  "Farge 4": "Blå"
+  },
+
+"G017" : {
+      "sesong":"2019",
+      "Navn" : "Mother fucker hooded sweatshirt",
+      "Bilde" : "Motherfuckerhoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+
+    "G017" : {
+      "sesong":"2019",
+      "Navn" : "Gonzo Embroidered map hooded sweatshirt",
+      "Bilde" : "GonzoEmbroideredmaphoodedsweatshirt.jpg",
+      "produsent":"Express x gonzo",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+
+"G018" : {
+      "sesong":"2019",
+      "Navn" : "Patchwork tie dye hooded sweatshirt",
+      "Bilde" : "Patchworktiedyehoodedsweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G019" : {
+      "sesong":"2019",
+      "Navn" : "Forever half zip sweatshirt",
+      "Bilde" : "ForeverHalfZipSweatshirt.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+
+"G020" : {
+      "sesong":"2019",
+      "Navn" : "Express/stoneisland hooded sweatshirt",
+      "Bilde" : "Expressstoneislandhoodedsweatshirt.jpg",
+      "produsent":"express x stone island",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+  "G021":{
+    "sesong":"2019",
+    "Navn":"Express® Jean Paul Gaultier® Floral Print Hooded Sweatshirt",
+    "Bilde":"Express®JeanPaulGaultier® FloralPrintHoodedSweatshirt.jpg",
+    "produsent":"Express x Jean Paul",
+    "Farge1":"Hvit",
+    "Farge2":"gul",
+    "Farge3":"grå",
+    "Frage4":"Blå"
+  }
+  },
+    "Bukser" : {
+      "B001" : {
+        "sesong":"2019",
+        "Navn" : "Velvet flight pants",
+        "Bilde" : "Velvetflightpants.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+    },
+    "B002" : {
+      "sesong":"2019",
+      "Navn" : "Drill skate pants",
+      "Bilde" : "Drillskatepants.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+    "B003" : {
+      "sesong":"2019",
+      "Navn" : "Nylon Ripstop pants",
+      "Bilde" : "NylonRipstoppants.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+    "B004" : {
+      "sesong":"2019",
+      "Navn" : "Raiders Embroidered pants",
+      "Bilde" : "RaidersEmbroideredpants.jpg",
+      "produsent":"Express x Raiders",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+    "B005" : {
+      "sesong":"2019",
+      "Navn" : "Arc logo Chino pants",
+      "Bilde" : "ArclogoChinopants.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+    "B006" : {
+      "sesong":"2019",
+      "Navn" : "Diamond Plate Double Knee Work Pant",
+      "Bilde" : "DiamondPlateDoubleKneeWorkPant.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+    "B007" : {
+      "sesong":"2019",
+      "Navn" : "nylon trail pants",
+      "Bilde" : "nylontrailpants.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+    },
+    "B008" : {
+      "sesong":"2019",
+      "Navn" : "Gore tex pants",
+      "Bilde" : "Goretexpants.jpg",
+      "produsent":"Express x gortex",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+    "B009" : {
+      "sesong":"2019",
+      "Navn" : "Gonz map demin ainter pants",
+      "Bilde" : "Gonzmapdeminainterpants.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+    "B010" : {
+      "sesong":"2019",
+      "Navn" : "Floral silk rack pants",
+      "Bilde" : "Floralsilkrackpants.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+    "B011" : {
+      "sesong":"2019",
+      "Navn" : "Patchwork tie dye Sweatpatns",
+      "Bilde" : "PatchworktiedyeSweatpatns.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+    "B012" : {
+      "sesong":"2019",
+      "Navn" : "Deep space skate pants",
+      "Bilde" : "Deepspaceskatepants.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+    "B013" : {
+      "sesong":"2019",
+      "Navn" : "Logo demin overall",
+      "Bilde" : "Logodeminoverall.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+      "B014" : {
+        "sesong":"2019",
+        "Navn" : "Nylon Cargo pants",
+        "Bilde" : "NylonCargopants.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+    "B015":{
+      "sesong":"2019",
+      "Navn":"Express® The North Face® Arc Logo Mountain Pant",
+      "Bilde":"Express®TheNorthFace®ArcLogoMountainPant.jpg",
+      "produsent":"Express x North Face",
+      "Farge1":"Hvit",
+      "Farge2":"gul",
+      "Farge3":"grå",
+      "Farge4":"Blå,"
+    }
+  },
+    "Hatter" : {
+      "H001" : {
+        "sesong":"2019",
+        "Navn" : "Checkboard Boucle Camp Caps",
+        "Bilde" : "CheckboardBoucleCampCaps.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "H002" : {
+        "sesong":"2019",
+        "Navn" : "Corduroy Compact Logo 6-Panel",
+        "Bilde" : "CorduroyCompactLogo6-Panel.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "H003" : {
+      "sesong":"2019",
+      "Navn" : "Corduroy Compact Logo 6-Panel",
+      "Bilde" : "CorduroyCompactLogo6-Panel.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H004" : {
+      "sesong":"2019",
+      "Navn" : "World 5-Panel",
+      "Bilde" : "World5-Panel.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H005" : {
+      "sesong":"2019",
+      "Navn" : "Jacquard Script 6-Panel",
+      "Bilde" : "JacquardScript6-Panel.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H006" : {
+      "sesong":"2019",
+      "Navn" : "Cordura® Script Logo 6-Panel",
+      "Bilde" : "Cordura®ScriptLogo6-Panel.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H007" : {
+      "sesong":"2019",
+      "Navn" : "Contrast Stitch Crusher",
+      "Bilde" : "ContrastStitchCrusher.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H008" : {
+      "sesong":"2019",
+      "Navn" : "Worldwide Visor Tape Camp Cap",
+      "Bilde" : "WorldwideVisorTapeCampCap.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H009" : {
+      "sesong":"2019",
+      "Navn" : "Motherfucker 6-Panel",
+      "Bilde" : "Motherfucker6-Panel.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H010" : {
+      "sesong":"2019",
+      "Navn" : "Apple 5-Panel",
+      "Bilde" : "Apple5-Panel.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H011" : {
+      "sesong":"2019",
+      "Navn" : "Racing New Era®",
+      "Bilde" : "RacingNewEra®.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H012" : {
+      "sesong":"2019",
+      "Navn" : "Pocket Crusher",
+      "Bilde" : "PocketCrusher.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H013" : {
+      "sesong":"2019",
+      "Navn" : "Pebbled Leather Camp Cap",
+      "Bilde" : "PebbledLeatherCampCap.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H014" : {
+      "sesong":"2019",
+      "Navn" : "2-Tone Camp Cap",
+      "Bilde" : "2-ToneCampCap.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+},
+  "H015" : {
+      "sesong":"2019",
+      "Navn" : "Washed Linen Camp Cap",
+      "Bilde" : "WashedLinenCampCap.jpg",
+      "produsent":"Express",
+      "Farge1" : "Hvit",
+      "Farge2" : "gul",
+      "Farge 3": "grå",
+      "Farge 4": "Blå"
+      }
+    },
+    "Accessories":{
+      "A001":{
+        "sesong":"2019",
+        "Navn" : "Supreme® Frette® Slippers",
+        "Bilde" : "Supreme®Frette®Slippers.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "A002":{
+        "sesong":"2019",
+        "Navn" : "Dish Towels (Set of 3)",
+        "Bilde" : "DishTowels(Setof3).jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "A003":{
+        "sesong":"2019",
+        "Navn" : "Express® ENO® DoubleNest® Hammock",
+        "Bilde" : "Express®ENO®DoubleNest®Hammock.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "A004":{
+        "sesong":"2019",
+        "Navn" : "Spotlight Keychain",
+        "Bilde" : "SpotlightKeychain.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "A005":{
+        "sesong":"2019",
+        "Navn" : "Express® Nike® NBA Headband",
+        "Bilde" : "Express®Nike®NBAHeadband.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "A006":{
+        "sesong":"2019",
+        "Navn" : "Express® Super Soaker 50 Water Blaster",
+        "Bilde" : "Express®SuperSoaker50WaterBlaster.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "A007":{
+        "sesong":"2019",
+        "Navn" : "Director's Chair",
+        "Bilde" : "Director'sChair.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "A008":{
+        "sesong":"2019",
+        "Navn" : "Express® Master Lock® Numeric Combination Lock",
+        "Bilde" : "Express®MasterLock®NumericCombinationLock.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+},
+      "A009":{
+        "sesong":"2019",
+        "Navn" : "Express® SealLine® Discovery Dry Bag",
+        "Bilde" : "Express®SealLine®DiscoveryDryBag.jpg",
+        "produsent":"Express",
+        "Farge1" : "Hvit",
+        "Farge2" : "gul",
+        "Farge 3": "grå",
+        "Farge 4": "Blå"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<link rel="stylesheet" href="html/main-kopi.css">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <script src="https://www.gstatic.com/firebasejs/5.9.2/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyAdQjXHCUuNsrb5FfxVzZSsdI1bBmhi95I",
+        authDomain: "paaskeprosjekt.firebaseapp.com",
+        databaseURL: "https://paaskeprosjekt.firebaseio.com",
+        projectId: "paaskeprosjekt",
+        storageBucket: "paaskeprosjekt.appspot.com",
+        messagingSenderId: "361414324330"
+      };
+      firebase.initializeApp(config);
+    </script>
+  </head>
+  <body>
+
+
+  <div class="container">
+    <nav>
+      <h1 class="brand"><a href="forside.html">EX<spand>PRE</spand>SS</a></h1>
+      <ul>
+      <li><a href="html/forside.html">Home</a></li>
+      <li><a href="html/shop.html">Shop</a></li>
+      <li><a href="html/About.html">About</a></li>
+      <li><a href="html/Contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+
+    <main>
+
+    </main>
+
+    <script type="text/javascript">
+      const main = document.querySelector("main")
+
+      var url_string = window.location.href
+      var url = new URL(url_string);
+      var id = url.searchParams.get("id");
+
+      const db = firebase.database();
+      const bukser = db.ref("Klær/Bukser/" + id);
+      const gensere = db.ref("Klær/Gensere/" + id);
+      const hatter = db.ref("Klær/Hatter/" + id);
+      const accessories = db.ref("Klær/Accessories/" + id);
+
+      function visVare(snapshot){
+        console.log(snapshot.val())
+        let key = snapshot.key;
+        let vare = snapshot.val();
+
+        main.innerHTML +=`
+          <article>
+            <h1 class="overskriftunderside">${vare.Navn}</h1>
+            <img class="bilderunderside" src="Bilder/${vare.Bilde}">
+            <p class="tekstunderside"> Produsent: ${vare.produsent}</p>
+            <p class="tekstunderside"> Sesong: ${vare.sesong}</p>
+            <p class="tekstunderside"> Farge: ${vare.Farge}</p>
+
+        `
+      }
+
+      if (id.charAt(0) ==="B"){
+        bukser.on("value", visVare);
+      }
+      else if(id.charAt(0)==="G"){
+        gensere.on("value", visVare);
+      }
+      else if(id.charAt(0) ==="H"){
+        hatter.on("value", visVare);
+      }
+      else if(id.charAt(0) ==="A"){
+        accessories.on("value", visVare);
+      }
+
+    </script>
+  </body>
+</html>

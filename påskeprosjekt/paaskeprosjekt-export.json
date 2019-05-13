@@ -1,0 +1,349 @@
+{
+  "klær" : {
+      "Bukser" : {
+        "B001" : {
+          "Bilde" : "Velvet flight pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Velvet flight pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B002" : {
+          "Bilde" : "Drill skate pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Drill skate pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B003" : {
+          "Bilde" : "Nylon Ripstop pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Nylon Ripstop pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B004" : {
+          "Bilde" : "Raiders Embroidered pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Raiders Embroidered pants",
+          "produsent" : "Express x Raiders",
+          "sesong" : "2019"
+        },
+        "B005" : {
+          "Bilde" : "Arc logo Chino pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Arc logo Chino pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B006" : {
+          "Bilde" : "Diamond Plate Double Knee Work Pant.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Diamond Plate Double Knee Work Pant",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B007" : {
+          "Bilde" : "nylon trail pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "nylon trail pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B008" : {
+          "Bilde" : "Gore tex pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Gore tex pants",
+          "produsent" : "Express x gortex",
+          "sesong" : "2019"
+        },
+        "B009" : {
+          "Bilde" : "Gonz map demin ainter pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Gonz map demin ainter pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B010" : {
+          "Bilde" : "Floral silk rack pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Floral silk rack pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B011" : {
+          "Bilde" : "Patchwork tie dye Sweatpatns.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Patchwork tie dye Sweatpatns",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B012" : {
+          "Bilde" : "Deep space skate pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Deep space skate pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B013" : {
+          "Bilde" : "Logo demin overall.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Logo demin overall",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "B014" : {
+          "Bilde" : "Nylon Cargo pants.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Nylon Cargo pants",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        }
+      },
+      "Gensere" : {
+        "G001" : {
+          "Bilde" : "Dripped crewneck.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Dripped crewneck",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G002" : {
+          "Bilde" : "Know yourself hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Know yourself hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G003" : {
+          "Bilde" : "Topline zip up sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Topline zip up sweatshirt ",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G004" : {
+          "Bilde" : "Star zip up sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Star zip up sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G005" : {
+          "Bilde" : "Toy uzi hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Toy uzi hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G006" : {
+          "Bilde" : "Tag logo hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Tag logo hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G007" : {
+          "Bilde" : "wrist logo hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "wrist logo hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G008" : {
+          "Bilde" : "Classic ad Hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Classic ad Hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G009" : {
+          "Bilde" : "Blockbuster hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Blockbuster hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G010" : {
+          "Bilde" : "Contrast Embroidered Hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Contrast Embroidered Hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G011" : {
+          "Bilde" : "Rib Stripe crewneck.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Rib Stripe crewneck",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G012" : {
+          "Bilde" : "Overdyed Hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Overdyed Hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G013" : {
+          "Bilde" : "Chain logo crewneck.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Chain logo crewneck",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G014" : {
+          "Bilde" : "Old english striped zip up sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Old english striped zip up sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G015" : {
+          "Bilde" : "Chest stripe logo Hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Chest stripe logo Hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G016" : {
+          "Bilde" : "Zip pouch Hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Zip pouch Hooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G017" : {
+          "Bilde" : "Gonzo Embroidered map hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Gonzo Embroidered map hooded sweatshirt",
+          "produsent" : "Express x gonzo",
+          "sesong" : "2019"
+        },
+        "G018" : {
+          "Bilde" : "Patchwork tie dye ooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Patchwork tie dye ooded sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G019" : {
+          "Bilde" : "Forever Half Zip Sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Forever half zip sweatshirt",
+          "produsent" : "Express",
+          "sesong" : "2019"
+        },
+        "G020" : {
+          "Bilde" : "Express/stoneisland hooded sweatshirt.jpg",
+          "Farge 3" : "grå",
+          "Farge 4" : "Blå",
+          "Farge1" : "Hvit",
+          "Farge2" : "gul",
+          "Navn" : "Express/stoneisland hooded sweatshirt",
+          "produsent" : "express x stone island",
+          "sesong" : "2019"
+        }
+      }
+    }
+  
+}

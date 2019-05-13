@@ -1,0 +1,235 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html{
+  font-size: 10px;
+  font-family: "roboto CN", sans-serif;
+}
+a{
+  text-decoration: none;
+  color: #eee;
+}
+
+header{
+  width: 100%;
+  height: 150px;
+}
+.container{
+  max-width: 550rem;
+  width: 90%;
+  margin: 0 auto;
+}
+nav{
+  padding-top: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+
+}
+.brand{
+  font-size: 3rem;
+  font-weight: 300;
+}
+.brand span{
+  color: crimson;
+}
+
+nav ul{
+  display: flex;
+}
+nav ul li{
+  list-style: none;
+}
+nav ul li a{
+  padding: 1rem 0;
+  margin: 0 3rem;
+  position: relative;
+  letter-spacing: 5px;
+}
+nav ul li a:last-child{
+  margin-right: 0;
+}
+nav ul li a::before,
+nav ul li a::after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: crimson;
+  left: 0;
+  transform: scaleX(0);
+  transition: all .5s;
+}
+nav ul li a::before{
+  top: 0;
+  transform-origin: left;
+}
+nav ul li a::after{
+  bottom: 0;
+  transform-origin: right;
+}
+nav ul li a:hover::before,
+nav ul li a:hover::after{
+  transform: scaleX(1);
+}
+.main{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr
+}
+@media(max width:750px){
+
+}
+.wrap{
+  text-align: center;
+  font-size: 10px;
+}
+
+.content{
+margin-top: 80px;
+  }
+.content p{
+width: 700px;
+margin: 30px auto;
+text-align: justify;
+font-size: 15px;
+line-height: 30px;
+}
+
+.Overskrift{
+  text-align: center;
+}
+.butikker div img {
+  height: 300px;
+  width: 300px;
+}
+.butikker {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+.butikker div {
+  margin: auto;
+}
+.nyc:hover {
+  filter: grayscale(100);
+}
+.london:hover{
+    filter: grayscale(100);
+
+}
+.france:hover{
+  filter: grayscale(100);
+}
+.brooklyn:hover{
+  filter: grayscale(100);
+}
+.la:hover{
+  filter: grayscale(100);
+}
+.shop img {
+  height: 270px;
+  width: 270px;
+  margin-left: 50px;
+}
+.shop{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-row-gap: 15px;
+}
+.shop .Klær a p{
+  font-size: 15px;
+  color: purple;
+}
+
+.visklær{
+  display: inline;
+  margin-left: 450px;
+
+}
+.button{
+  border-radius: 10px;
+  padding: 10px;
+}
+.t-shirt-bilde{
+  width: 400px;
+  height: 389px;
+}
+.Text{
+font-size: 20px;
+}
+.overgang{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.overgang img{
+  height: 350px;
+  width: 400px;
+  margin-left: 430px;
+}
+.row {
+  display: inline;
+  flex-wrap: wrap;
+
+}
+
+
+.column {
+  flex: 50%;
+  padding: 0 4px;
+
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 370px;
+  height: 270px;
+  margin-left: 40px;
+}
+.overskrifter{
+  text-align: center;
+  border: grey solid;
+  border-radius: 20px;
+}
+.Bukser{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.Bukser img{
+  width: 470px;
+  height: 370px;
+  margin-left: 40px;
+}
+.bilderunderside{
+  width: 300px;
+  height: 250px;
+}
+.video{
+  margin: 0 auto;
+  margin-top: 15px;
+  width: 800px;
+  height: 553px;
+}
+video{
+  width: 100%;
+}
+.BLESSED{
+  margin-top: 30px;
+}
+.tekstforside{
+  text-align: center;
+  font-size: 15px;
+  margin-top: 25px;
+}
+.bildeforside{
+  margin-left: 250px;
+}
+.bildegang{
+  margin-left: 190px;
+  width: 900px;
+  height: 553px;
+}
